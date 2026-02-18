@@ -2,10 +2,9 @@
 layout: post
 title: "Jasper AI Review: Is It Worth It for Finance Content?"
 date: 2026-02-19
-categories: reviews
+categories: Reviews
+excerpt: "We tested Jasper AI for creating finance content. Here's our honest review — pros, cons, pricing, and whether it's worth it."
 ---
-
-# Jasper AI Review: Is It Worth It for Finance Content?
 
 Jasper AI is one of the most popular AI writing tools. But is it good for finance content? Let's find out.
 

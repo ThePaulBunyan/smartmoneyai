@@ -2,10 +2,9 @@
 layout: post
 title: "How to Use ChatGPT to Save Money Every Month"
 date: 2026-02-18
-categories: guides
+categories: Guides
+excerpt: "ChatGPT isn't just for answering questions — it can help you save real money. Here's how to use AI for budgeting, bill negotiation, and more."
 ---
-
-# How to Use ChatGPT to Save Money Every Month
 
 ChatGPT isn't just for answering questions — it can help you save real money. Here's how.
 

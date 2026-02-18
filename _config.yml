@@ -1,7 +1,16 @@
 name: SmartMoneyAI
-title: AI Tools for Personal Finance & Investing
-description: Learn how to use AI tools for finance.
+title: SmartMoneyAI
+description: AI Tools for Personal Finance & Investing
 author: Paul
 email: thepaulbunyan@gmail.com
 permalink: /:title/
 future: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "_posts"
+    values:
+      layout: post

@@ -1,24 +1,21 @@
-# SmartMoneyAI
+---
+layout: default
+---
 
-**AI Tools for Personal Finance & Investing**
+<div class="hero">
+  <h1>Master Your Money with AI</h1>
+  <p>Discover the best AI tools for personal finance, investing, and wealth building. Expert reviews, tutorials, and strategies.</p>
+</div>
 
-Welcome to SmartMoneyAI — your guide to using artificial intelligence to manage money, invest smarter, and build wealth.
-
-## Latest Articles
-
-<ul>
+<div class="article-list">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <span>{{ post.date | date_to_string }}</span>
-    </li>
+  <a href="{{ post.url }}/" class="article-card">
+    <span class="tag">{{ post.categories }}</span>
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+    <div class="meta">
+      <span>{{ post.date | date: "%B %d, %Y" }}</span>
+    </div>
+  </a>
   {% endfor %}
-</ul>
-
-## About
-
-We review the best AI tools for personal finance, investing, and wealth building. Our goal: help you use AI to make smarter financial decisions.
-
-## Disclaimer
-
-SmartMoneyAI is for informational purposes only. Not financial advice. Always do your own research.
+</div>

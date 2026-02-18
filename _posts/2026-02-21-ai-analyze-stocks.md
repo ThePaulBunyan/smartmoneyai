@@ -2,10 +2,9 @@
 layout: post
 title: "How to Use AI to Analyze Stock Fundamentals"
 date: 2026-02-21
-categories: guides
+categories: Guides
+excerpt: "Don't have a finance degree? AI can help you analyze stocks like a pro. Learn how to use ChatGPT and other AI tools for stock analysis."
 ---
-
-# How to Use AI to Analyze Stock Fundamentals
 
 Don't have a finance degree? AI can help you analyze stocks like a pro.
 

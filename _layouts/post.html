@@ -1,9 +1,13 @@
+---
+layout: post
+---
+
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }} - SmartMoneyAI</title>
-  <meta name="description" content="AI Tools for Personal Finance & Investing - Learn how to use AI to manage money, invest smarter, and build wealth.">
+  <meta name="description" content="{{ page.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,7 +26,19 @@
   </nav>
 
   <main>
-    {{ content }}
+    <article>
+      <header class="post-header">
+        <span class="tag">{{ page.categories }}</span>
+        <h1>{{ page.title }}</h1>
+        <div class="post-meta">
+          <span>{{ page.date | date: "%B %d, %Y" }}</span>
+        </div>
+      </header>
+      
+      <div class="post-content">
+        {{ content }}
+      </div>
+    </article>
   </main>
 
   <footer>
@@ -32,9 +48,8 @@
         <p>AI Tools for Personal Finance & Investing</p>
       </div>
       <div class="footer-links">
+        <a href="/">Home</a>
         <a href="/about/">About</a>
-        <a href="/privacy/">Privacy</a>
-        <a href="/terms/">Terms</a>
       </div>
       <p class="disclaimer">For informational purposes only. Not financial advice.</p>
     </div>
