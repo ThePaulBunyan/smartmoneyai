@@ -10,13 +10,22 @@ layout: default
 <div class="newsletter-section">
   <div class="newsletter-content">
     <h2>Get Weekly AI Finance Updates</h2>
-    <p>Every week: Top AI tools, market trends, crypto insights, and money tips. No spam, just value.</p>
+    <p>Every week: Top AI tools, market trends, crypto insights, and money tips.</p>
     <div class="newsletter-form">
-      <a href="https://smartmoneyai-newsletter-acf23f.beehiiv.com" target="_blank" class="cta-button">Subscribe Now</a>
+      <input type="email" id="newsletter-email" placeholder="Enter your email address">
+      <button type="button" onclick="window.open('https://smartmoneyai-newsletter-acf23f.beehiiv.com', '_blank')">Subscribe</button>
     </div>
-    <p class="newsletter-note">Opens in new tab. Join thousands of subscribers. Unsubscribe anytime.</p>
+    <p class="newsletter-note">Join thousands of subscribers. Unsubscribe anytime.</p>
   </div>
 </div>
+
+<script>
+document.getElementById('newsletter-email').addEventListener('keypress', function(e) {
+  if (e.key === 'Enter') {
+    window.open('https://smartmoneyai-newsletter-acf23f.beehiiv.com', '_blank');
+  }
+});
+</script>
 
 <div class="article-list">
   {% for post in site.posts %}
