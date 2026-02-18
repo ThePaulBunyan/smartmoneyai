@@ -55,4 +55,21 @@ Want to start investing but don't know where to begin? These AI-powered apps mak
 
 All investing involves risk. AI tools help but don't guarantee profits. Start with money you can afford to lose.
 
+---
+
+## Get Started
+
+<div class="affiliate-links">
+
+**Best for Beginners:**
+- [Robinhood](https://robinhood.com) - Free stock trading
+- [Webull](https://www.webull.com) - Free, advanced charts
+
+**Passive Investing:**
+- [Betterment](https://www.betterment.com) - Automated robo-advisor
+
+*Sign up through these links to support the site at no extra cost to you.*
+
+</div>
+
 **Start small, learn often.**
