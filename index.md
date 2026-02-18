@@ -11,11 +11,10 @@ layout: default
   <div class="newsletter-content">
     <h2>Get Weekly AI Finance Updates</h2>
     <p>Every week: Top AI tools, market trends, crypto insights, and money tips. No spam, just value.</p>
-    <form class="newsletter-form" action="https://beehiiv.com/subscribe/smartmoneyai" method="GET" target="_blank">
-      <input type="email" name="email" placeholder="Enter your email" required>
-      <button type="submit">Subscribe</button>
-    </form>
-    <p class="newsletter-note">Join thousands of subscribers. Unsubscribe anytime.</p>
+    <div class="newsletter-form">
+      <a href="https://www.beehiiv.com/subscribe" target="_blank" class="cta-button">Subscribe Now</a>
+    </div>
+    <p class="newsletter-note">Opens in new tab. Join thousands of subscribers. Unsubscribe anytime.</p>
   </div>
 </div>
 
