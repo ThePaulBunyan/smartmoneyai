@@ -12,7 +12,7 @@ layout: default
     <h2>Get Weekly AI Finance Updates</h2>
     <p>Every week: Top AI tools, market trends, crypto insights, and money tips. No spam, just value.</p>
     <div class="newsletter-form">
-      <a href="https://www.beehiiv.com/subscribe" target="_blank" class="cta-button">Subscribe Now</a>
+      <a href="https://smartmoneyai-newsletter-acf23f.beehiiv.com" target="_blank" class="cta-button">Subscribe Now</a>
     </div>
     <p class="newsletter-note">Opens in new tab. Join thousands of subscribers. Unsubscribe anytime.</p>
   </div>
