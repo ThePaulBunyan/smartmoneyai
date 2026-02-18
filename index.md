@@ -11,8 +11,10 @@ layout: default
   <div class="newsletter-content">
     <h2>Get Weekly AI Finance Updates</h2>
     <p>Every week: Top AI tools, market trends, crypto insights, and money tips. No spam, just value.</p>
-    <script async src="https://subscribe-forms.beehiiv.com/embed.js"></script>
-    <iframe src="https://subscribe-forms.beehiiv.com/6bace3bc-517d-4d0d-95f6-4df2832c5198" class="beehiiv-embed" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="width: 100%; max-width: 560px; height: 120px; margin: 0 auto; display: block; border-radius: 8px !important; background-color: #1a1a1a; box-shadow: 0 0 #0000; max-width: 100%;"></iframe>
+    <form class="newsletter-form" action="https://beehiiv.com/subscribe/smartmoneyai" method="GET" target="_blank">
+      <input type="email" name="email" placeholder="Enter your email" required>
+      <button type="submit">Subscribe</button>
+    </form>
     <p class="newsletter-note">Join thousands of subscribers. Unsubscribe anytime.</p>
   </div>
 </div>
