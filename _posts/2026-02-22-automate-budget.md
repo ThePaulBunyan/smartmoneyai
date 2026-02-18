@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Automate Your Budget with AI in 2026"
-date: 2026-02-22
+date: 2026-02-18
 categories: Guides
 excerpt: "Stop manually tracking expenses. Learn how to use AI to automatically categorize spending, find savings, and optimize your budget."
 ---

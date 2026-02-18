@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Tools for Stock Analysis: Complete Guide"
-date: 2026-02-25
+date: 2026-02-18
 categories: Guides
 excerpt: "From fundamental analysis to technical indicators — learn which AI tools help you pick better stocks."
 ---

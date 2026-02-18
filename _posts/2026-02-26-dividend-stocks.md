@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Use AI to Find Dividend Stocks"
-date: 2026-02-26
+date: 2026-02-18
 categories: Guides
 excerpt: "Dividend investing is popular — but finding great dividend stocks takes time. AI can speed up the process."
 ---
