@@ -1,8 +1,8 @@
 name: SmartMoneyAI
-title: SmartMoneyAI
-description: AI Tools for Personal Finance & Investing
+title: AI Automation for Business
+description: We help businesses automate operations, build AI employees, and scale with artificial intelligence.
 author: Paul
-email: thepaulbunyan@gmail.com
+email: smartmoneyai@proton.me
 permalink: /:title/
 future: true
 defaults:
