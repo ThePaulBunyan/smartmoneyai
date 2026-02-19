@@ -21,9 +21,10 @@ layout: default
 </div>
 
 <div class="cta-section">
-  <h2>Want Us to Build Your AI?</h2>
-  <p>We create custom AI employees and automation systems for businesses.</p>
-  <a href="mailto:smartmoneyai@proton.me" class="cta-button">Contact Us</a>
+  <h2>Ready to Automate Your Business?</h2>
+  <p>Get a free consultation. Tell us what you want to automate.</p>
+  <a href="mailto:smartmoneyai@proton.me?subject=AI Automation Inquiry" class="cta-button">Email Us</a>
+  <p class="contact-info">Or call: (555) 123-4567</p>
 </div>
 
 <div class="newsletter-section">

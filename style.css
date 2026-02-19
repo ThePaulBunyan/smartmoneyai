@@ -213,6 +213,16 @@ main {
   font-size: 1.1rem;
 }
 
+.cta-section .contact-info {
+  margin-top: 1.5rem;
+  color: var(--text-muted);
+  font-size: 1rem;
+}
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+}
+
 /* CTA Button */
 .cta-button {
   display: inline-block;
