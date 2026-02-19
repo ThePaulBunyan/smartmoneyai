@@ -24,7 +24,7 @@ layout: default
   <h2>Ready to Automate Your Business?</h2>
   <p>Get a free consultation. Tell us what you want to automate.</p>
   <a href="mailto:smartmoneyai@proton.me?subject=AI Automation Inquiry" class="cta-button">Email Us</a>
-  <p class="contact-info">Or call: (555) 123-4567</p>
+  <p class="contact-info">Or call: <a href="tel:618-759-1617">618-759-1617</a></p>
 </div>
 
 <div class="newsletter-section">
