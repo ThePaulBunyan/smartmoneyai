@@ -22,9 +22,10 @@ layout: default
   
   <div class="service-card">
     <h3>Basic Automation</h3>
-    <p class="price">$497</p>
+    <p class="price">$497 + $1,499 equipment</p>
     <p>One specific task automated</p>
     <ul>
+      <li>Dedicated Mac Mini setup</li>
       <li>Email automation</li>
       <li>Auto-responders</li>
       <li>Follow-up sequences</li>
@@ -34,9 +35,10 @@ layout: default
   
   <div class="service-card featured">
     <h3>Full Workflow</h3>
-    <p class="price">$1,497</p>
+    <p class="price">$1,497 + $1,499 equipment</p>
     <p>Complete process automation</p>
     <ul>
+      <li>Dedicated Mac Mini setup</li>
       <li>Up to 5 automations</li>
       <li>Custom AI employee</li>
       <li>Integration setup</li>
@@ -49,6 +51,7 @@ layout: default
     <p class="price">$2,997+</p>
     <p>Full business automation</p>
     <ul>
+      <li>Custom equipment quote</li>
       <li>Unlimited automations</li>
       <li>Multiple AI employees</li>
       <li>Advanced integrations</li>
