@@ -42,4 +42,4 @@ You have the right to:
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at smartmoneyai@proton.me.
+If you have any questions about this Privacy Policy, please contact us at smartmoneyai.org@pm.me.

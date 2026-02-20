@@ -5,79 +5,77 @@ title: Our Services
 
 # Our Services & Pricing
 
-We provide AI automation services for businesses. Here's what we offer.
+Turn your business into a 24/7 operation with AI employees that never sleep, never call in sick, and never quit.
 
 ---
 
-## Basic Automation
+## 💻 Basic Automation
 
-**$499 + $1,499 equipment**
+<div class="pricing-box">
+  <div class="price">$499 <span class="equipment">+ $1,499 equipment</span></div>
+  <p class="tagline">Perfect for automating one specific task</p>
+</div>
 
-One specific task automated for your business.
-
-### What's Included:
-- Dedicated Mac Mini setup
-- Email automation
+**What's Included:**
+- Dedicated Mac Mini (yours to keep)
+- Email automation setup
 - Auto-responders
 - Follow-up sequences
 - 5 business days delivery
 
-This is perfect for businesses that want to automate one specific process — like responding to inquiries or scheduling appointments.
-
 ---
 
-## Full Workflow
+## 🚀 Full Workflow
 
-**$1,499 + $1,499 equipment**
+<div class="pricing-box featured">
+  <div class="price">$1,499 <span class="equipment">+ $1,499 equipment</span></div>
+  <p class="tagline">Our most popular package</p>
+</div>
 
-Complete process automation for your business.
-
-### What's Included:
-- Dedicated Mac Mini setup
+**What's Included:**
+- Dedicated Mac Mini (yours to keep)
 - Up to 5 automations
 - Custom AI employee
 - Integration setup
 - 14 business days delivery
 
-This is our most popular package. We'll automate multiple processes and create a dedicated AI employee that handles day-to-day tasks.
-
 ---
 
-## Enterprise
+## 🏢 Enterprise
 
-**$2,999+**
+<div class="pricing-box">
+  <div class="price">$2,999+</div>
+  <p class="tagline">Full business automation</p>
+</div>
 
-Full business automation.
-
-### What's Included:
+**What's Included:**
 - Custom equipment quote
 - Unlimited automations
 - Multiple AI employees
 - Advanced integrations
 - Ongoing support
 
-For businesses that want complete automation. We'll build a full AI workforce for your company.
-
 ---
 
-## Monthly Management
+## 🔧 Monthly Management
 
-**$297/month**
+<div class="pricing-box">
+  <div class="price">$297<span>/month</span></div>
+  <p class="tagline">Keep your AI running smoothly</p>
+</div>
 
-Keep your AI running smoothly.
-
-### What's Included:
+**What's Included:**
 - Monitor & optimize
 - Add new automations
 - 24/7 support
 - Monthly reports
 
-We make sure your AI employees never sleep — they just keep working.
-
 ---
 
-## Ready to Get Started?
+## Get Started Today
 
-Call us at [618-759-1617](tel:618-759-1617) or email [smartmoneyai@proton.me](mailto:smartmoneyai@proton.me)
+**Call:** [618-759-1617](tel:618-759-1617)
 
-Business Hours: 8am - 4pm CST
+**Email:** [smartmoneyai.org@pm.me](mailto:smartmoneyai.org@pm.me)
+
+**Business Hours:** 8am - 4pm CST

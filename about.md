@@ -35,6 +35,6 @@ We build custom AI automation solutions tailored to your specific business needs
 
 ## Contact Us
 
-- Email: smartmoneyai@proton.me
+- Email: smartmoneyai.org@pm.me
 - Phone: 618-759-1617
 - Business Hours: 8am - 4pm CST

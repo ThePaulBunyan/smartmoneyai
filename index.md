@@ -27,7 +27,7 @@ layout: default
 <div class="cta-section">
   <h2>Ready to Automate Your Business?</h2>
   <p>Get a free consultation. Tell us what you want to automate.</p>
-  <a href="mailto:smartmoneyai@proton.me?subject=AI Automation Inquiry" class="cta-button">Email Us</a>
+  <a href="mailto:smartmoneyai.org@pm.me?subject=AI Automation Inquiry" class="cta-button">Email Us</a>
   
   <div class="contact-details">
     <p class="phone-number"><a href="tel:618-759-1617">618-759-1617</a></p>

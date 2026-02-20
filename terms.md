@@ -36,4 +36,4 @@ SmartMoneyAI shall not be liable for any indirect, incidental, special, or conse
 
 ## Contact Information
 
-For questions about these Terms of Service, please contact us at smartmoneyai@proton.me.
+For questions about these Terms of Service, please contact us at smartmoneyai.org@pm.me.

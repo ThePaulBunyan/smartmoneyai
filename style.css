@@ -421,6 +421,92 @@ main {
   color: #000;
 }
 
+/* Pricing Boxes on Services Page */
+.pricing-box {
+  background: var(--bg-card);
+  border: 2px solid var(--border);
+  border-radius: 16px;
+  padding: 2rem;
+  margin: 1.5rem 0 2rem;
+  text-align: center;
+}
+
+.pricing-box.featured {
+  border-color: var(--accent);
+  box-shadow: 0 0 40px rgba(0, 212, 170, 0.15);
+}
+
+.pricing-box .price {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.pricing-box .price .equipment {
+  font-size: 1rem;
+  color: var(--text-muted);
+  font-weight: 400;
+}
+
+.pricing-box .price span {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.pricing-box .tagline {
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
+
+/* Page content styling */
+.page-content {
+  padding: 8rem 2rem 4rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.page-content h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.page-content h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.8rem;
+  margin: 2.5rem 0 1rem;
+}
+
+.page-content h3 {
+  font-size: 1.3rem;
+  margin: 2rem 0 0.75rem;
+}
+
+.page-content p {
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+}
+
+.page-content ul {
+  margin: 1rem 0 1.5rem 1.5rem;
+}
+
+.page-content li {
+  margin-bottom: 0.5rem;
+  color: var(--text-secondary);
+}
+
+.page-content strong {
+  color: var(--text-primary);
+}
+
+.page-content a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
 /* Single Post */
 .post-header {
   margin-bottom: 3rem;
