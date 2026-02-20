@@ -11,7 +11,7 @@ We provide AI automation services for businesses. Here's what we offer.
 
 ## Basic Automation
 
-**$497 + $1,499 equipment**
+**$499 + $1,499 equipment**
 
 One specific task automated for your business.
 
@@ -28,7 +28,7 @@ This is perfect for businesses that want to automate one specific process — li
 
 ## Full Workflow
 
-**$1,497 + $1,499 equipment**
+**$1,499 + $1,499 equipment**
 
 Complete process automation for your business.
 
@@ -45,7 +45,7 @@ This is our most popular package. We'll automate multiple processes and create a
 
 ## Enterprise
 
-**$2,997+**
+**$2,999+**
 
 Full business automation.
 

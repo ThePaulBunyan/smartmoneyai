@@ -211,9 +211,26 @@ main {
   text-decoration: none;
 }
 
+.phone-number a:hover {
+  color: var(--accent);
+}
+
 .business-hours {
   color: var(--text-muted);
   font-size: 1rem;
+}
+
+/* Email link in CTA */
+.cta-section .cta-button[href^="mailto"] {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  margin-left: 1rem;
+}
+
+.cta-section .cta-button[href^="mailto"]:hover {
+  background: #fff;
+  color: var(--bg-primary);
 }
 
 /* CTA Button */

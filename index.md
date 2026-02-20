@@ -20,7 +20,7 @@ layout: default
 <a href="/services/" class="article-card" style="text-align: center; border-color: var(--accent);">
   <span class="tag">Services</span>
   <h2>Our Services & Pricing</h2>
-  <p>Basic Automation from $497 + equipment. Full Workflow from $1,497. Monthly Management available.</p>
+  <p>Basic Automation from $499 + equipment. Full Workflow from $1,499. Monthly Management available.</p>
 </a>
 
 <div class="cta-section">
