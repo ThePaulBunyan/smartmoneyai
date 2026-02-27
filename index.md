@@ -39,10 +39,11 @@ layout: default
   <div class="newsletter-content">
     <h2>Get Weekly AI Automation Tips</h2>
     <p>Learn how to automate your business, build AI employees, and attract more clients.</p>
-    <div class="newsletter-form">
-      <input type="email" id="newsletter-email" placeholder="Enter your email address">
-      <button type="button" onclick="window.open('https://smartmoneyai-newsletter-acf23f.beehiiv.com', '_blank')">Subscribe</button>
-    </div>
+    <!-- Formspree form - Paul will add his Formspree URL -->
+    <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="newsletter-form">
+      <input type="email" name="email" id="newsletter-email" placeholder="Enter your email address" required>
+      <button type="submit">Subscribe</button>
+    </form>
     <p class="newsletter-note">Join thousands of business owners. Unsubscribe anytime.</p>
   </div>
 </div>
