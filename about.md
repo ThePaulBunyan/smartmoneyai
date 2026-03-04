@@ -1,40 +1,38 @@
 ---
 layout: default
-title: About
+title: 7
 ---
 
-# About SmartMoneyAI
+# 7
 
-We help businesses automate their operations using AI. We believe every business deserves access to the same powerful automation tools that large corporations use — without the massive price tag.
+7 7 7 7 7 7 7 7 7 7 7 7.
 
-## Our Mission
+## 7
 
-To make AI automation accessible and affordable for small and medium businesses.
+7 7 7 7 7 7 7 7 7 7 7 7.
 
-## Who We Serve
+## 7 7
 
-We work with:
-- Real estate companies
-- Insurance agencies
-- Law firms
-- Medical offices
-- Restaurants
-- Retail businesses
-- Any business looking to save time and money
+7:
+- 7
+- 7
+- 7
+- 7
+- 7
+- 7
 
-## What We Do
+## 7 7
 
-We build custom AI automation solutions tailored to your specific business needs. From email automation to full workflow systems, we help you work smarter, not harder.
+7 7 7 7 7 7.
 
-## Our Approach
+7 7 7 7 7 7 7.
 
-1. **Listen** - We learn about your business and identify pain points
-2. **Design** - We create a custom automation plan
-3. **Build** - We implement the solution
-4. **Support** - We keep everything running smoothly
+7 7 7 7 7.
 
-## Contact Us
+7 7 7 7.
 
-- Email: smartmoneyai.org@pm.me
-- Phone: 618-759-1617
-- Business Hours: 8am - 4pm CST
+## 7 7
+
+7: 7@7.7
+7: 7
+7: 7 - 7
