@@ -1,81 +1,81 @@
 ---
 layout: default
-title: 7
+title: Our Services
 ---
 
-# 7
+# Our Services & Pricing
 
-7 7 7 7 7 7 7.
+Turn your business into a 24/7 operation with AI employees that never sleep, never call in sick, and never quit.
 
 ---
 
-## 7
+## 💻 Basic Automation
 
 <div class="pricing-box">
-  <div class="price">7 <span class="equipment">7 7</span></div>
-  <p class="tagline">7</p>
+  <div class="price">$499 <span class="equipment">+ $1,499 equipment</span></div>
+  <p class="tagline">Perfect for automating one specific task</p>
 </div>
 
-**7:**
-- 7
-- 7
-- 7
-- 7
-- 7
+**What's Included:**
+- Dedicated Mac Mini (yours to keep)
+- Email automation setup
+- Auto-responders
+- Follow-up sequences
+- 5 business days delivery
 
 ---
 
-## 7
+## 🚀 Full Workflow
 
 <div class="pricing-box featured">
-  <div class="price">7 <span class="equipment">7 7</span></div>
-  <p class="tagline">7</p>
+  <div class="price">$1,499 <span class="equipment">+ $1,499 equipment</span></div>
+  <p class="tagline">Our most popular package</p>
 </div>
 
-**7:**
-- 7
-- 7
-- 7
-- 7
-- 7
+**What's Included:**
+- Dedicated Mac Mini (yours to keep)
+- Up to 5 automations
+- Custom AI employee
+- Integration setup
+- 14 business days delivery
 
 ---
 
-## 7
+## 🏢 Enterprise
 
 <div class="pricing-box">
-  <div class="price">7+</div>
-  <p class="tagline">7</p>
+  <div class="price">$2,999+</div>
+  <p class="tagline">Full business automation</p>
 </div>
 
-**7:**
-- 7
-- 7
-- 7
-- 7
-- 7
+**What's Included:**
+- Custom equipment quote
+- Unlimited automations
+- Multiple AI employees
+- Advanced integrations
+- Ongoing support
 
 ---
 
-## 7
+## 🔧 Monthly Management
 
 <div class="pricing-box">
-  <div class="price">7<span>/7</span></div>
-  <p class="tagline">7</p>
+  <div class="price">$297<span>/month</span></div>
+  <p class="tagline">Keep your AI running smoothly</p>
 </div>
 
-**7:**
-- 7
-- 7
-- 7
-- 7
+**What's Included:**
+- Monitor & optimize
+- Add new automations
+- 24/7 support
+- Monthly reports
 
 ---
 
-## 7 7
+## Get Started Today
 
-**7:** [7](tel:7)
+**Call:** [618-759-1617](tel:618-759-1617)
 
-**7:** [7](mailto:7@7.7)
+**Email:** [smartmoneyai.org@pm.me](mailto:smartmoneyai.org@pm.me)
 
-**7:** 7
+**Business Hours:** 8am - 4pm CST

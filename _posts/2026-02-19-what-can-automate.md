@@ -1,68 +1,85 @@
 ---
 layout: post
-title: "7"
+title: "What Tasks Can Your Business Actually Automate?"
 date: 2026-02-19
-categories: 7
-excerpt: "7"
+categories: What
+excerpt: "You might be surprised what can be automated. Here's every task your business can hand off to AI."
 ---
 
-# 7 7 7 7 7 7 7 7. 7 7 7 7.
+# What Tasks Can Your Business Actually Automate?
 
-## 7
+Most business owners don't realize how much can be automated. Here's the complete list.
 
-- [ ] 7 7 (7 7, 7-7)
-- [ ] 7 7 7
-- [ ] 7 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
+## Communication
 
-## 7 7 7 7
+- [ ] Email responses (new inquiries, follow-ups)
+- [ ] Text message replies
+- [ ] Voicemail transcription and response
+- [ ] Meeting scheduling
+- [ ] Appointment reminders
+- [ ] Thank you messages
+- [ ] Review responses
 
-- [ ] 7 7 7 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7 7
-- [ ] 7 7 7
+## Customer Service
 
-## 7
+- [ ] Answering frequently asked questions
+- [ ] Processing returns
+- [ ] Tracking orders
+- [ ] Providing status updates
+- [ ] Handling complaints (initial response)
+- [ ] FAQ management
 
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
+## Sales
 
-## 7 7
+- [ ] Lead qualification
+- [ ] Follow-up sequences
+- [ ] Proposal sending
+- [ ] Invoice reminders
+- [ ] Payment confirmations
+- [ ] Referral requests
 
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
+## Operations
 
-## 7 7
+- [ ] Data entry
+- [ ] File organization
+- [ ] Report generation
+- [ ] Inventory updates
+- [ ] Scheduling shifts
+- [ ] Supply ordering
 
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7 7
-- [ ] 7 7
-- [ ] 7 7
+## Marketing
 
-## 7 7 7
+- [ ] Social media posting
+- [ ] Email marketing
+- [ ] Review requests
+- [ ] Newsletter sending
+- [ ] Ad campaign management
 
-| 7 | 7 7 |
-|---|------|
-| 7 | 7-7 |
-| 7 | 7-7 |
-| 7 | 7-7 |
-| 7 | 7-7 |
+## Administrative
 
-## 7 7
+- [ ] Calendar management
+- [ ] Meeting notes
+- [ ] Document creation
+- [ ] Expense tracking
+- [ ] Receipt processing
 
-7 7 7 7 7. 7 7 7.
+## How Much Time Could You Save?
 
-7 7 7 7 7? 7 7 7.
+| Industry | Weekly Tasks | Hours Saved |
+|----------|--------------|--------------|
+| Real Estate | 35-45 | 25-35 |
+| Insurance | 30-40 | 20-30 |
+| Medical | 25-35 | 20-28 |
+| Restaurant | 20-30 | 15-22 |
+| Retail | 25-35 | 18-25 |
+
+## Start Small
+
+You don't have to automate everything at once. Start with one task.
+
+What takes you 30 minutes every day? That's 10 hours/month.
+
+Automate that one thing. Then add another.
+
+---
+*Curious what specific tasks to automate in YOUR business? Let's have that conversation.*

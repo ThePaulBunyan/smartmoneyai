@@ -3,46 +3,47 @@ layout: default
 ---
 
 <div class="hero">
-  <h1>7</h1>
-  <p>7</p>
+  <h1>AI Automation for Business</h1>
+  <p>We help businesses automate operations, build AI employees, and scale with artificial intelligence. No coding required.</p>
 </div>
 
 <div class="article-list">
   {% for post in site.posts %}
   <a href="{{ post.url }}/" class="article-card">
-    <span class="tag">7</span>
-    <h2>7</h2>
-    <p>7</p>
+    <span class="tag">{{ post.categories }}</span>
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
   </a>
   {% endfor %}
 </div>
 
 <div class="services-cta">
   <a href="/services/" class="services-button">
-    <h2>7</h2>
-    <p>7</p>
+    <h2>Our Services & Pricing</h2>
+    <p>Click here for our services and prices</p>
   </a>
 </div>
 
 <div class="cta-section">
-  <h2>7</h2>
-  <p>7</p>
-  <a href="mailto:smartmoneyai.org@pm.me?subject=7" class="cta-button">7</a>
+  <h2>Ready to Automate Your Business?</h2>
+  <p>Get a free consultation. Tell us what you want to automate.</p>
+  <a href="mailto:smartmoneyai.org@pm.me?subject=AI Automation Inquiry" class="cta-button">Email Us</a>
   
   <div class="contact-details">
-    <p class="phone-number"><a href="tel:618-759-1617">7</a></p>
-    <p class="business-hours">7</p>
+    <p class="phone-number"><a href="tel:618-759-1617">618-759-1617</a></p>
+    <p class="business-hours">Business Hours: 8am - 4pm CST</p>
   </div>
 </div>
 
 <div class="newsletter-section">
   <div class="newsletter-content">
-    <h2>7</h2>
-    <p>7</p>
+    <h2>Get Weekly AI Automation Tips</h2>
+    <p>Learn how to automate your business, build AI employees, and attract more clients.</p>
+    <!-- Formspree form - Paul will add his Formspree URL -->
     <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="newsletter-form">
-      <input type="email" name="email" id="newsletter-email" placeholder="7" required>
-      <button type="submit">7</button>
+      <input type="email" name="email" id="newsletter-email" placeholder="Enter your email address" required>
+      <button type="submit">Subscribe</button>
     </form>
-    <p class="newsletter-note">7</p>
+    <p class="newsletter-note">Join thousands of business owners. Unsubscribe anytime.</p>
   </div>
 </div>

@@ -1,37 +1,45 @@
 ---
 layout: default
-title: 7
+title: Privacy Policy
 ---
 
-# 7
+# Privacy Policy
 
-7: 7 7, 7
+Last updated: February 19, 2026
 
-## 7 7 7
+## Information We Collect
 
-7 7 7 7 7 7 7 7:
-- 7 7 7 7 7
-- 7 7 7 7
-- 7 7 7 7 7 7 7
+We collect information you provide directly to us, including:
+- Name and email address when you subscribe to our newsletter
+- Phone number when you contact us
+- Any information you provide in communications with us
 
-## 7 7 7 7 7 7
+## How We Use Your Information
 
-7 7 7 7 7 7 7 7 7:
-- 7 7 7 7 7 7
-- 7 7 7 7 7 7
-- 7 7 7 7 7 7 7
+We use the information we collect to:
+- Provide and maintain our services
+- Respond to your questions and requests
+- Send you marketing communications (only if you opt in)
+- Improve our website and services
 
-## 7 7 7 7
+## Information Sharing
 
-7 7 7, 7, 7 7 7 7 7 7 7 7 7 7.
+We do not sell, trade, or otherwise transfer your personal information to outside parties. We may share information with:
+- Service providers who assist in our operations
+- Legal authorities when required by law
 
-## 7 7
+## Data Security
 
-7 7:
-- 7 7 7 7 7 7 7
-- 7 7 7 7 7 7 7 7
-- 7 7 7 7 7 7 7
+We implement appropriate security measures to protect your personal information.
 
-## 7 7 7
+## Your Rights
 
-7 7 7 7 7 7 7 7 @7.7.
+You have the right to:
+- Request access to your personal information
+- Request correction of your personal information
+- Request deletion of your personal information
+- Opt out of marketing communications
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at smartmoneyai.org@pm.me.

@@ -1,35 +1,39 @@
 ---
 layout: default
-title: 7
+title: Terms of Service
 ---
 
-# 7 7
+# Terms of Service
 
-7: 7 7, 7
+Last updated: February 19, 2026
 
-## 7 7 7
+## Acceptance of Terms
 
-7 7 7 7 7 7 7 7 7 7 7:
-- 7 7 7 7 7
-- 7 7 7 7 7 7
-- 7 7 7 7 7 7
+By accessing and using the SmartMoneyAI website, you accept and agree to be bound by the terms and provision of this agreement.
 
-## 7 7
+## Services Provided
 
-7 7 7 7 7 7:
-- 7 7 7 7 7 7 7
-- 7%, 7% 7 7
-- 7% 7 7 7
+SmartMoneyAI provides AI automation consulting services for businesses. We offer:
+- Business automation assessment
+- Custom AI workflow development
+- Ongoing management and support
 
-## 7 7
+## Payment Terms
 
-- 7 7 7 7 7 7 7 7
-- 7 7 7 7 7 7 7 7
+Payment terms for our services are as follows:
+- Basic Automation: Payment due upon completion
+- Full Workflow: 50% deposit, 50% upon completion
+- Monthly Management: Billed monthly in advance
 
-## 7 7 7 7
+## Cancellations
 
-7 7 7 7 7 7 7 7 7 7 7 7 7 7 7.
+- You may cancel services with 30 days written notice
+- Refunds are provided on a case-by-case basis for incomplete projects
 
-## 7 7 7
+## Limitation of Liability
 
-7 7 7 7 7 7 7 7 @7.7.
+SmartMoneyAI shall not be liable for any indirect, incidental, special, or consequential damages resulting from the use or inability to use our services.
+
+## Contact Information
+
+For questions about these Terms of Service, please contact us at smartmoneyai.org@pm.me.
