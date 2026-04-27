@@ -36,25 +36,8 @@ Your trusted partner for IT support and AI solutions. We handle the tech so you 
 - Everything in Basic IT Support
 - Unlimited remote support
 - On-site support when needed (1 visit/month)
-- Network security monitoring
 - Data backup setup & checking
 - Monthly tech check-in call
-
----
-
-## 🔒 Cybersecurity Assessment
-
-<div class="pricing-box">
-  <div class="price">$199<span>/one-time</span></div>
-  <p class="tagline">Know your vulnerabilities</p>
-</div>
-
-**What's Included:**
-- Security gap analysis
-- Password policy review
-- Network vulnerability scan
-- Written report with recommendations
-- Priority follow-up call to discuss findings
 
 ---
 
