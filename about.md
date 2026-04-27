@@ -3,38 +3,46 @@ layout: default
 title: About
 ---
 
-# About SmartMoneyAI
+# About SmartTech Solutions
 
-We help businesses automate their operations using AI. We believe every business deserves access to the same powerful automation tools that large corporations use — without the massive price tag.
+Your local partner for IT support and AI solutions. We help small businesses stay productive with reliable tech and smart AI tools.
 
 ## Our Mission
 
-To make AI automation accessible and affordable for small and medium businesses.
+To take the tech burden off your shoulders so you can focus on running your business. We believe every small business deserves enterprise-level tech support — without the enterprise price tag.
 
 ## Who We Serve
 
-We work with:
-- Real estate companies
-- Insurance agencies
-- Law firms
+We work with small businesses across Southern Illinois and beyond:
 - Medical offices
+- Law firms
+- Real estate companies
+- Retail shops
 - Restaurants
-- Retail businesses
-- Any business looking to save time and money
+- Service businesses
+- Any business that relies on technology
 
 ## What We Do
 
-We build custom AI automation solutions tailored to your specific business needs. From email automation to full workflow systems, we help you work smarter, not harder.
+- **IT Support** — We manage your technology so you don't have to worry about it
+- **Cybersecurity** — We help protect your business from online threats
+- **AI Solutions** — We implement practical AI tools that actually save time
 
 ## Our Approach
 
-1. **Listen** - We learn about your business and identify pain points
-2. **Design** - We create a custom automation plan
-3. **Build** - We implement the solution
-4. **Support** - We keep everything running smoothly
+1. **Listen** — We learn about your business and tech needs
+2. **Recommend** — We suggest solutions that fit your budget
+3. **Implement** — We set everything up properly
+4. **Support** — We keep things running smoothly
+
+## About the Owner
+
+Hi, I'm Paul — the founder of SmartTech Solutions. I hold a degree in cybersecurity and have experience helping businesses with their tech needs. I started this company because I saw too many small businesses struggling with tech issues and getting pushed into expensive solutions they didn't need.
+
+I believe in honest, practical tech support. No jargon. No upselling. Just someone you can trust to handle your technology.
 
 ## Contact Us
 
 - Email: smartmoneyai.org@pm.me
 - Phone: 618-759-1617
-- Business Hours: 8am - 4pm CST
+- Business Hours: Monday - Friday 8am - 4pm CST

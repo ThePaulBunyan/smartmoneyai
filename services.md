@@ -5,70 +5,72 @@ title: Our Services
 
 # Our Services & Pricing
 
-Turn your business into a 24/7 operation with AI employees that never sleep, never call in sick, and never quit.
+Your trusted partner for IT support and AI solutions. We handle the tech so you can focus on your business.
 
 ---
 
-## 💻 Basic Automation
+## 🖥️ IT Support Services
 
 <div class="pricing-box">
-  <div class="price">$499 <span class="equipment">+ $1,499 equipment</span></div>
-  <p class="tagline">Perfect for automating one specific task</p>
+  <div class="price">$149<span>/month</span></div>
+  <p class="tagline">Basic managed IT support</p>
 </div>
 
 **What's Included:**
-- Dedicated Mac Mini (yours to keep)
-- Email automation setup
-- Auto-responders
-- Follow-up sequences
-- 5 business days delivery
+- Remote monitoring & maintenance
+- Software updates & security patches
+- Email & browser support
+- 2 hours of remote support/month
+- Priority response during business hours
 
 ---
 
-## 🚀 Full Workflow
+## 🚀 Full Managed IT
 
 <div class="pricing-box featured">
-  <div class="price">$1,499 <span class="equipment">+ $1,499 equipment</span></div>
-  <p class="tagline">Our most popular package</p>
+  <div class="price">$299<span>/month</span></div>
+  <p class="tagline">Complete tech management</p>
 </div>
 
 **What's Included:**
-- Dedicated Mac Mini (yours to keep)
-- Up to 5 automations
-- Custom AI employee
-- Integration setup
-- 14 business days delivery
+- Everything in Basic IT Support
+- Unlimited remote support
+- On-site support when needed (1 visit/month)
+- Network security monitoring
+- Data backup setup & checking
+- Monthly tech check-in call
 
 ---
 
-## 🏢 Enterprise
+## 🔒 Cybersecurity Assessment
 
 <div class="pricing-box">
-  <div class="price">$2,999+</div>
-  <p class="tagline">Full business automation</p>
+  <div class="price">$199<span>/one-time</span></div>
+  <p class="tagline">Know your vulnerabilities</p>
 </div>
 
 **What's Included:**
-- Custom equipment quote
-- Unlimited automations
-- Multiple AI employees
-- Advanced integrations
-- Ongoing support
+- Security gap analysis
+- Password policy review
+- Network vulnerability scan
+- Written report with recommendations
+- Priority follow-up call to discuss findings
 
 ---
 
-## 🔧 Monthly Management
+## 🤖 AI Implementation
 
 <div class="pricing-box">
-  <div class="price">$297<span>/month</span></div>
-  <p class="tagline">Keep your AI running smoothly</p>
+  <div class="price">$199<span>/month</span></div>
+  <p class="tagline">AI tools that actually help your business</p>
 </div>
 
 **What's Included:**
-- Monitor & optimize
-- Add new automations
-- 24/7 support
-- Monthly reports
+- AI tool selection & setup
+- Custom prompt creation
+- Workflow integration
+- Monthly optimization
+- Training & support
 
 ---
 
@@ -78,4 +80,4 @@ Turn your business into a 24/7 operation with AI employees that never sleep, nev
 
 **Email:** [smartmoneyai.org@pm.me](mailto:smartmoneyai.org@pm.me)
 
-**Business Hours:** 8am - 4pm CST
+**Business Hours:** Monday - Friday 8am - 4pm CST
