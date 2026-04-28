@@ -59,8 +59,6 @@ Your trusted partner for IT support and AI solutions. We handle the tech so you 
 
 ## Get Started Today
 
-**Call:** [618-759-1617](tel:618-759-1617)
-
 **Email:** [smartmoneyai.org@pm.me](mailto:smartmoneyai.org@pm.me)
 
 **Business Hours:** Monday - Friday 8am - 4pm CST

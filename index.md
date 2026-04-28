@@ -20,7 +20,5 @@ layout: default
   <a href="mailto:smartmoneyai.org@pm.me?subject=IT Support Inquiry" class="cta-button">Contact Us</a>
   
   <div class="contact-details">
-    <p class="phone-number"><a href="tel:618-759-1617">618-759-1617</a></p>
-    <p class="business-hours">Monday - Friday 8am - 4pm CST</p>
   </div>
 </div>

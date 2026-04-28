@@ -44,5 +44,4 @@ I believe in honest, practical tech support. No jargon. No upselling. Just someo
 ## Contact Us
 
 - Email: smartmoneyai.org@pm.me
-- Phone: 618-759-1617
 - Business Hours: Monday - Friday 8am - 4pm CST
