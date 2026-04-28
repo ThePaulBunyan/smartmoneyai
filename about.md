@@ -37,7 +37,7 @@ We work with small businesses across Southern Illinois and beyond:
 
 ## About the Owner
 
-Hi, I'm Paul — the founder of SmartTech Solutions. I hold a degree in cybersecurity and have experience helping businesses with their tech needs. I started this company because I saw too many small businesses struggling with tech issues and getting pushed into expensive solutions they didn't need.
+Hi, I'm Carter — the founder of SmartTech Solutions. I hold a degree in cybersecurity and have experience helping businesses with their tech needs. I started this company because I saw too many small businesses struggling with tech issues and getting pushed into expensive solutions they didn't need.
 
 I believe in honest, practical tech support. No jargon. No upselling. Just someone you can trust to handle your technology.
 
