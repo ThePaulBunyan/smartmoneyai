@@ -9,6 +9,12 @@ Your trusted partner for IT support and AI solutions. We handle the tech so you 
 
 ---
 
+## 🎉 Free Consultation
+
+<p>Whether you're interested in IT support, AI implementation, or both — we start with a free consultation to see if we're a good fit. No obligation, no pressure. Just a conversation about what your business needs.</p>
+
+---
+
 ## 🖥️ IT Support Services
 
 <div class="pricing-box">
@@ -42,8 +48,6 @@ Your trusted partner for IT support and AI solutions. We handle the tech so you 
 ---
 
 ## 🤖 AI Implementation
-
-<p><strong>🎉 Free Consultation</strong> — We start with a free call to see if our AI solutions are a good fit for your business.</p>
 
 <div class="pricing-box">
   <div class="price">$499<span> startup</span> + <span class="equipment"> equipment</span></div>
