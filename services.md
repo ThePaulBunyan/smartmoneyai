@@ -43,17 +43,34 @@ Your trusted partner for IT support and AI solutions. We handle the tech so you 
 
 ## 🤖 AI Implementation
 
+<p><strong>🎉 Free Consultation</strong> — We start with a free call to see if our AI solutions are a good fit for your business.</p>
+
 <div class="pricing-box">
-  <div class="price">$199<span>/month</span></div>
-  <p class="tagline">AI tools that actually help your business</p>
+  <div class="price">$499<span> startup</span> + <span class="equipment"> equipment</span></div>
+  <p class="tagline">One-time setup fee to get everything running</p>
 </div>
 
-**What's Included:**
+<div class="pricing-box featured">
+  <div class="price">$199<span>/month</span></div>
+  <p class="tagline">Ongoing AI management & optimization</p>
+</div>
+
+**One-Time Startup Includes:**
 - AI tool selection & setup
-- Custom prompt creation
-- Workflow integration
-- Monthly optimization
-- Training & support
+- Custom conversational scripts
+- Workflow design & integration
+- Account configuration
+- Testing & deployment
+
+**Monthly Includes:**
+- AI optimization & updates
+- New prompt creation as needed
+- Monitoring & troubleshooting
+- Training for your staff
+
+**Equipment:**
+- Additional equipment may be needed depending on setup
+- We'll provide a quote during consultation
 
 ---
 
