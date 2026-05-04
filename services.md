@@ -17,7 +17,7 @@ Your trusted partner for IT support and AI solutions. We handle the tech so you 
 
 ## 🖥️ IT Support Services
 
-<div class="pricing-box">
+<div class="pricing-box featured">
   <div class="price">$149<span>/month</span></div>
   <p class="tagline">Basic managed IT support</p>
 </div>
@@ -49,7 +49,7 @@ Your trusted partner for IT support and AI solutions. We handle the tech so you 
 
 ## 🤖 AI Implementation
 
-<div class="pricing-box">
+<div class="pricing-box featured">
   <div class="price">$499<span> startup</span> + <span class="equipment"> equipment</span></div>
   <p class="tagline">One-time setup fee to get everything running</p>
 </div>
