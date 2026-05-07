@@ -9,7 +9,7 @@
   --accent: #00d4aa;
   --accent-hover: #00f5c4;
   --border: #3a3a42;
-  --banner-bg: #b8b8b8;
+  --banner-bg: #606060;
   --banner-text: #1a1a1e;
 }
 
@@ -28,18 +28,19 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Top Logo - flowy cursive, green starts at C in Tech */
+/* Top Logo - bigger, Smart grey, Tech green */
 .top-logo {
   font-family: 'Dancing Script', cursive;
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-weight: 600;
   text-align: center;
   padding: 1.5rem 0 0.5rem;
   letter-spacing: 2px;
+  color: #444;
 }
 
 .top-logo span {
-  background: linear-gradient(90deg, #888 0%, #888 30%, #00d4aa 50%, #00d4aa 100%);
+  background: linear-gradient(90deg, #444 0%, #444 30%, #00d4aa 50%, #00d4aa 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -130,8 +131,8 @@ main {
 }
 
 .page-header h1 {
-  font-family: 'Dancing Script', cursive;
-  font-size: 2.5rem;
+  font-family: 'Outfit', sans-serif;
+  font-size: 2.25rem;
   font-weight: 600;
   margin-bottom: 0.3125rem;
   color: #00d4aa;
