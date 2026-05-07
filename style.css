@@ -28,7 +28,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Top Logo */
+/* Top Logo - starts green at "C" in Tech */
 .top-logo {
   font-family: 'Playfair Display', serif;
   font-size: 2rem;
@@ -40,7 +40,7 @@ body {
 }
 
 .top-logo span {
-  background: linear-gradient(90deg, #888 0%, #00d4aa 100%);
+  background: linear-gradient(90deg, #888 0%, #888 60%, #00d4aa 80%, #00d4aa 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -100,12 +100,12 @@ main {
 }
 
 .hero h1 {
-  font-family: 'Outfit', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-size: 1.875rem;
   font-weight: 600;
   line-height: 1.3;
   margin-bottom: 0.875rem;
-  color: #fff;
+  color: var(--banner-text);
 }
 
 .hero p {
@@ -143,13 +143,13 @@ main {
   font-size: 1rem;
   font-weight: 600;
   margin-bottom: 0.5rem;
-  color: #fff;
+  color: var(--banner-text);
 }
 
-/* Square Info Box */
+/* Square Info Box - styled like pricing cards */
 .info-box {
-  background: transparent;
-  border: 1px solid #888;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
   border-radius: 2px;
   padding: 1rem;
   margin: 0.75rem 0;
