@@ -37,15 +37,9 @@ title: Services
         <li>Monthly check-ins</li>
       </ul>
     </div>
-  </div>
-</div>
-
-<div class="content-section">
-  <h2>AI Implementation</h2>
-  
-  <div class="pricing-grid">
+    
     <div class="pricing-card tier-3">
-      <h3>AI Setup & Management</h3>
+      <h3>AI Implementation</h3>
       <div class="price">$499<span> startup</span></div>
       <p class="tagline">Full implementation</p>
       <ul>
