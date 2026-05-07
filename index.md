@@ -9,16 +9,26 @@ layout: default
 
 <div class="content-section">
   <h2>Why This Matters</h2>
-  <p>When your computers work, you don't think about them. When they don't work, everything stops. We keep things working so you can focus on your customers, your products, your team.</p>
   
-  <p>Technology should help your business grow, not hold it back. But figuring out what you actually need and what you don't is confusing. We help with that too.</p>
+  <div class="info-box">
+    <p>When your computers work, you don't think about them. When they don't work, everything stops. We keep things working so you can focus on your customers, your products, your team.</p>
+  </div>
+  
+  <div class="info-box">
+    <p>Technology should help your business grow, not hold it back. But figuring out what you actually need and what you don't is confusing. We help with that too.</p>
+  </div>
 </div>
 
 <div class="content-section">
   <h2>How We Help</h2>
-  <p>We do two main things. First, everyday IT support — keeping your systems running, handling issues when they come up, that kind of thing. Second, AI implementation — helping you use AI tools that actually make your life easier.</p>
   
-  <p>We always start with a free chat. No pressure, no commitment. We just talk about what you're dealing with and see if we can help.</p>
+  <div class="info-box">
+    <p>We do two main things. First, everyday IT support — keeping your systems running, handling issues when they come up, that kind of thing. Second, AI implementation — helping you use AI tools that actually make your life easier.</p>
+  </div>
+  
+  <div class="info-box">
+    <p>We always start with a free chat. No pressure, no commitment. We just talk about what you're dealing with and see if we can help.</p>
+  </div>
 </div>
 
 <div class="contact-card">
