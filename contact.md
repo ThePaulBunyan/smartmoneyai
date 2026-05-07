@@ -3,16 +3,21 @@ layout: default
 title: Contact
 ---
 
-# Contact Us
+<div class="page-header">
+  <h1>Contact Us</h1>
+  <p>Have questions? We'd love to hear from you.</p>
+</div>
 
-Got questions? We'd love to hear from you.
+<div class="contact-section">
+  <h2>Get In Touch</h2>
+  <p>The best way to reach us is by email. We typically respond within 24 hours.</p>
+  <a href="mailto:smartmoneyai.org@pm.me" class="contact-email">smartmoneyai.org@pm.me</a>
+</div>
 
-## Get In Touch
-
-**Email:** [smartmoneyai.org@pm.me](mailto:smartmoneyai.org@pm.me)
-
-**Business Hours:** Monday - Friday 8am - 4pm CST
-
----
-
-We typically respond within 24 hours. Looking forward to hearing from you!
+<div class="page-content">
+  <h2>Business Hours</h2>
+  <p>Monday - Friday: 8am - 4pm CST</p>
+  
+  <h2>What To Expect</h2>
+  <p>When you reach out, we'll schedule a free consultation to discuss your business needs. No pressure, no obligation — just a conversation about how we might be able to help.</p>
+</div>

@@ -3,23 +3,24 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }} - SmartTech Solutions</title>
-  <meta name="description" content="IT Support & AI Solutions for Small Businesses. Reliable tech help and AI implementation.">
+  <meta name="description" content="Professional IT Support & AI Solutions for Small Businesses">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css">
 </head>
 <body>
   <nav class="navbar">
     <div class="nav-container">
       <a href="/" class="logo">SmartTech<span>Solutions</span></a>
-      <div class="nav-links">
-        <a href="/">Home</a>
-        <a href="/services/">Services</a>
-        <a href="/about/">About Us</a>
-        <a href="/contact/">Contact</a>
+      <div class="nav-tabs">
+        <a href="/" class="nav-tab {% if page.url == '/' %}active{% endif %}">Home</a>
+        <a href="/services/" class="nav-tab {% if page.url == '/services/' %}active{% endif %}">Services</a>
+        <a href="/about/" class="nav-tab {% if page.url == '/about/' %}active{% endif %}">About Us</a>
+        <a href="/contact/" class="nav-tab {% if page.url == '/contact/' %}active{% endif %}">Contact</a>
       </div>
+      <a href="mailto:smartmoneyai.org@pm.me" class="nav-cta">Get Started</a>
     </div>
   </nav>
 
@@ -29,14 +30,17 @@
 
   <footer>
     <div class="footer-content">
-      <div class="footer-links">
-        <a href="/about/">About Us</a>
-        <a href="/services/">Services</a>
-        <a href="/contact/">Contact</a>
-        <a href="/privacy/">Privacy</a>
-        <a href="/terms/">Terms</a>
+      <div class="footer-brand">
+        <h3>SmartTech Solutions</h3>
+        <p>Professional IT Support & AI for Small Business</p>
       </div>
-      <p class="disclaimer">Serving small businesses with reliable tech support</p>
+      <div class="footer-links">
+        <a href="/">Home</a>
+        <a href="/services/">Services</a>
+        <a href="/about/">About Us</a>
+        <a href="/contact/">Contact</a>
+      </div>
+      <p class="copyright">© 2026 SmartTech Solutions. All rights reserved.</p>
     </div>
   </footer>
 </body>
