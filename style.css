@@ -40,7 +40,7 @@ body {
 }
 
 .top-logo span {
-  background: linear-gradient(90deg, #888 0%, #888 52%, #00d4aa 68%, #00d4aa 100%);
+  background: linear-gradient(90deg, #888 0%, #888 35%, #00d4aa 55%, #00d4aa 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -111,9 +111,10 @@ main {
 }
 
 .hero p {
-  font-size: 1.375rem;
+  font-size: 3rem;
   color: var(--text-secondary);
-  line-height: 1.75;
+  line-height: 1.5;
+  font-weight: 500;
 }
 
 .hero p {
@@ -131,10 +132,10 @@ main {
 
 .page-header h1 {
   font-family: 'Outfit', sans-serif;
-  font-size: 2rem;
+  font-size: 2.25rem;
   font-weight: 600;
   margin-bottom: 0.3125rem;
-  color: #fff;
+  color: #00d4aa;
 }
 
 .page-header p {
