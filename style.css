@@ -112,7 +112,7 @@ main {
 
 .hero p {
   font-size: 3rem;
-  color: var(--text-secondary);
+  color: #00d4aa;
   line-height: 1.5;
   font-weight: 500;
 }
