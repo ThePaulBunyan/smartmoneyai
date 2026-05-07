@@ -28,15 +28,14 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Top Logo - flowing font, green starts at C in Tech */
+/* Top Logo - flowy cursive, green starts at C in Tech */
 .top-logo {
-  font-family: 'Playfair Display', serif;
-  font-size: 2.5rem;
-  font-weight: 700;
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  font-weight: 600;
   text-align: center;
   padding: 1.5rem 0 0.5rem;
-  color: #888;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 .top-logo span {
@@ -131,8 +130,8 @@ main {
 }
 
 .page-header h1 {
-  font-family: 'Playfair Display', serif;
-  font-size: 2.25rem;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.5rem;
   font-weight: 600;
   margin-bottom: 0.3125rem;
   color: #00d4aa;
