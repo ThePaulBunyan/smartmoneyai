@@ -8,12 +8,23 @@ title: About Us
   <p>Your trusted partner for IT support and AI solutions.</p>
 </div>
 
-<div class="page-content">
-  <h2>Our Mission</h2>
-  <p>To take the tech burden off your shoulders so you can focus on running your business. We believe every small business deserves enterprise-level tech support — without the enterprise price tag.</p>
+<div class="content-section">
+  <h2>Who We Are</h2>
+  <p>SmartTech Solutions was founded to help small businesses navigate technology without the complexity or cost of enterprise solutions. We believe every business deserves access to reliable IT support and smart AI tools — regardless of size.</p>
+</div>
 
+<div class="content-section">
+  <h2>What We Do</h2>
+  <p>We provide two core services:</p>
+  <ul>
+    <li><strong>IT Support</strong> — From basic help desk to complete tech management, we keep your systems running.</li>
+    <li><strong>AI Solutions</strong> — Practical AI implementation that saves time and improves operations.</li>
+  </ul>
+</div>
+
+<div class="content-section">
   <h2>Who We Serve</h2>
-  <p>We work with small businesses across Southern Illinois and beyond:</p>
+  <p>We work with small businesses across industries:</p>
   <ul>
     <li>Medical offices</li>
     <li>Law firms</li>
@@ -21,30 +32,17 @@ title: About Us
     <li>Retail shops</li>
     <li>Restaurants</li>
     <li>Service businesses</li>
-    <li>Any business that relies on technology</li>
   </ul>
+</div>
 
-  <h2>What We Do</h2>
-  <ul>
-    <li><strong>IT Support</strong> — We manage your technology so you don't have to worry about it</li>
-    <li><strong>AI Solutions</strong> — We implement practical AI tools that actually save time</li>
-  </ul>
-
-  <h2>Our Approach</h2>
-  <ol>
-    <li><strong>Listen</strong> — We learn about your business and tech needs</li>
-    <li><strong>Recommend</strong> — We suggest solutions that fit your budget</li>
-    <li><strong>Implement</strong> — We set everything up properly</li>
-    <li><strong>Support</strong> — We keep things running smoothly</li>
-  </ol>
-
-  <h2>About the Owner</h2>
-  <p>Hi, I'm Carter — the founder of SmartTech Solutions. I hold a degree in cybersecurity and have experience helping businesses with their tech needs. I started this company because I saw too many small businesses struggling with tech issues and getting pushed into expensive solutions they didn't need.</p>
+<div class="content-section">
+  <h2>About the Founder</h2>
+  <p>Hi, I'm Carter — founder of SmartTech Solutions. I hold a degree in cybersecurity and have experience helping businesses with their tech needs. I started this company because I saw too many small businesses struggling with tech issues and getting pushed into expensive solutions they didn't need.</p>
   <p>I believe in honest, practical tech support. No jargon. No upselling. Just someone you can trust to handle your technology.</p>
 </div>
 
-<div class="contact-section">
+<div class="contact-card">
   <h2>Ready to Get Started?</h2>
-  <p>We'd love to hear from you. Schedule your free consultation today.</p>
-  <a href="mailto:smartmoneyai.org@pm.me" class="contact-email">Email Us →</a>
+  <p>Schedule your free consultation today.</p>
+  <a href="mailto:smartmoneyai.org@pm.me?subject=About Inquiry" class="contact-email">smartmoneyai.org@pm.me</a>
 </div>
