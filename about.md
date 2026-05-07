@@ -12,7 +12,7 @@ title: About Us
   <h2>Who We Are</h2>
   
   <div class="info-box">
-    <p>SmartTech Solutions was founded to help small businesses navigate technology without the complexity or cost of enterprise solutions. We believe every business deserves access to reliable IT support and smart AI tools — regardless of size.</p>
+    <p>SmartTech Solutions was founded to help small businesses navigate technology without the complexity or cost of enterprise solutions. We believe every business deserves access to reliable IT support and smart AI tools, regardless of size.</p>
   </div>
 </div>
 
@@ -20,9 +20,7 @@ title: About Us
   <h2>What We Do</h2>
   
   <div class="info-box">
-    <p>We provide two core services:</p>
-    <p style="margin-top: 0.5rem;"><strong>IT Support</strong> — From basic help desk to complete tech management, we keep your systems running.</p>
-    <p style="margin-top: 0.5rem;"><strong>AI Solutions</strong> — Practical AI implementation that saves time and improves operations.</p>
+    <p>We provide two core services. IT Support: From basic help desk to complete tech management, we keep your systems running. AI Solutions: Practical AI implementation that saves time and improves operations.</p>
   </div>
 </div>
 
@@ -30,8 +28,7 @@ title: About Us
   <h2>Who We Serve</h2>
   
   <div class="info-box">
-    <p>We work with small businesses across industries:</p>
-    <p style="margin-top: 0.5rem;">Medical offices, Law firms, Real estate companies, Retail shops, Restaurants, Service businesses, and more.</p>
+    <p>We work with small businesses across industries. Medical offices, Law firms, Real estate companies, Retail shops, Restaurants, Service businesses, and more.</p>
   </div>
 </div>
 
@@ -39,7 +36,7 @@ title: About Us
   <h2>About the Founder</h2>
   
   <div class="info-box">
-    <p>Hi, I'm Carter — founder of SmartTech Solutions. I hold a degree in cybersecurity and have experience helping businesses with their tech needs. I started this company because I saw too many small businesses struggling with tech issues and getting pushed into expensive solutions they didn't need.</p>
+    <p>Hi, I'm Carter, founder of SmartTech Solutions. I hold a degree in cybersecurity and have experience helping businesses with their tech needs. I started this company because I saw too many small businesses struggling with tech issues and getting pushed into expensive solutions they didn't need.</p>
     <p style="margin-top: 0.75rem;">I believe in honest, practical tech support. No jargon. No upselling. Just someone you can trust to handle your technology.</p>
   </div>
 </div>

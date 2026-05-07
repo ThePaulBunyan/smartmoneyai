@@ -23,7 +23,7 @@ layout: default
   <h2>How We Help</h2>
   
   <div class="info-box">
-    <p>We do two main things. First, everyday IT support — keeping your systems running, handling issues when they come up, that kind of thing. Second, AI implementation — helping you use AI tools that actually make your life easier.</p>
+    <p>We do two main things. First, everyday IT support. We keep your systems running and handle issues when they come up. Second, AI implementation. We help you use AI tools that actually make your life easier.</p>
   </div>
   
   <div class="info-box">
