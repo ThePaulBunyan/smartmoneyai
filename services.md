@@ -12,10 +12,10 @@ title: Services
   <h2>IT Support Services</h2>
   
   <div class="pricing-grid">
-    <div class="pricing-card">
-      <h3>🖥️ Basic IT Support</h3>
+    <div class="pricing-card tier-1">
+      <h3>Basic IT Support</h3>
       <div class="price">$149<span>/mo</span></div>
-      <p class="tagline">Essential support for small teams</p>
+      <p class="tagline">Essential support</p>
       <ul>
         <li>Remote monitoring</li>
         <li>Software updates</li>
@@ -25,16 +25,16 @@ title: Services
       </ul>
     </div>
 
-    <div class="pricing-card featured">
-      <h3>🚀 Full Managed IT</h3>
+    <div class="pricing-card tier-2">
+      <h3>Full Managed IT</h3>
       <div class="price">$299<span>/mo</span></div>
-      <p class="tagline">Complete tech management</p>
+      <p class="tagline">Complete management</p>
       <ul>
         <li>Everything in Basic</li>
-        <li>Unlimited remote support</li>
+        <li>Unlimited support</li>
         <li>On-site support (1/mo)</li>
-        <li>Data backup management</li>
-        <li>Monthly check-in calls</li>
+        <li>Data backup</li>
+        <li>Monthly check-ins</li>
       </ul>
     </div>
   </div>
@@ -44,10 +44,10 @@ title: Services
   <h2>AI Implementation</h2>
   
   <div class="pricing-grid">
-    <div class="pricing-card featured">
-      <h3>🤖 AI Setup & Management</h3>
+    <div class="pricing-card tier-3">
+      <h3>AI Setup & Management</h3>
       <div class="price">$499<span> startup</span></div>
-      <p class="tagline">One-time setup + ongoing management</p>
+      <p class="tagline">Full implementation</p>
       <ul>
         <li>AI tool selection</li>
         <li>Workflow design</li>
@@ -61,21 +61,17 @@ title: Services
 </div>
 
 <div class="content-section">
-  <h2>What's Included</h2>
-  <p>We believe in transparent, straightforward service. Here's what you can expect:</p>
+  <h2>How It Works</h2>
   
-  <div class="service-card">
-    <h3>🎯 Free Consultation</h3>
+  <div class="info-box">
     <p>Every engagement starts with a free consultation. We discuss your business needs, answer questions, and figure out if we're a good fit. No obligation.</p>
   </div>
   
-  <div class="service-card">
-    <h3>⚙️ Professional Setup</h3>
-    <p>Proper implementation from day one. No cutting corners, no shortcuts. We set things up right.</p>
+  <div class="info-box">
+    <p>We set things up properly from day one. No cutting corners, no shortcuts.</p>
   </div>
   
-  <div class="service-card">
-    <h3>📞 Ongoing Support</h3>
+  <div class="info-box">
     <p>We're here when you need us. Questions, issues, improvements — we keep things running.</p>
   </div>
 </div>
